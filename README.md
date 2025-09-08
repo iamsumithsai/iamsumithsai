@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Sumith Sai Koraboina</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUMITHSAI&label=Profile%20views&color=0e75b6&style=flat" alt="SUMITHSAI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsumithsai&label=Profile%20views&color=0e75b6&style=flat" alt="iamsumithsai" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SUMITHSAI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
